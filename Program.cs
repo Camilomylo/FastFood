@@ -6,7 +6,7 @@ namespace FastFood
     {
         static void Main(string[] args)
         {
-
+            //
 
             Dispensadora dispensador = new Dispensadora();
 
